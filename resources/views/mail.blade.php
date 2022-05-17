@@ -1,0 +1,1 @@
+hello worlds this is mail page created in laravel
